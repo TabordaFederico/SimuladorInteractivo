@@ -1,1 +1,8 @@
-
+.Titulo{ font-family:abel ;
+    font-size: 23px;
+    padding: 10px 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.body {background-image: url(../IMG/Backround.jpg);}
+.table {background-color: rgb(3, 133, 177);}
