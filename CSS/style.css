@@ -4,5 +4,6 @@
     text-align: center;
     text-transform: uppercase;
 }
-.body {background-image: url(../IMG/Backround.jpg);}
+.body {background-image: url(../IMG/Backround.jpg);
+    backdrop-filter: blur(10px);}
 .table {background-color: rgb(3, 133, 177);}
